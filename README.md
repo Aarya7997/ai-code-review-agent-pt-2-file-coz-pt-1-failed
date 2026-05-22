@@ -1,5 +1,7 @@
 # AI Code Review Agent
 
+API KEY = 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
+
 An autonomous agent that clones a GitHub repository, parses Python source files using
 Abstract Syntax Trees, and generates structured, confidence-rated review comments via
 Google Gemini.
